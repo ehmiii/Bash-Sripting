@@ -1,0 +1,20 @@
+#!/bin/bash
+
+echo -e "Enter your file name: \c"
+read filename
+
+if [ -e $filename ]
+then
+ echo "$filename file exists"
+else
+ echo "$filename file not found"
+fi
+
+# -d filename return true if directory exists
+-# -e filename _> return true if directory exists
+# -d filename return true if directory exists
+# -d filename return true if directory exists
+# -d filename return true if directory exists
+# -d filename return true if directory exists
+# -d filename return true if directory exists
+

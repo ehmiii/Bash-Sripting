@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+MY_SHELL="Bash"
+# echo "I like the $MY_SHELL shell."
