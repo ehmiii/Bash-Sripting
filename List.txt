@@ -1,0 +1,33 @@
+total 264
+drwxr-xr-x  3 anonymous anonymous   4096 Feb  7 20:07 .
+drwxr-xr-x 23 anonymous anonymous   4096 Feb  7 08:01 ..
+-rwxrwxrwx  1 anonymous anonymous    334 Jan  9 21:15 andOperator.sh
+-rwxrwxrwx  1 anonymous anonymous    282 Jan  9 00:18 appendingFile.sh
+-rwxrwxrwx  1 anonymous anonymous    435 Jan  9 21:43 ArithmeticOperationInteger.sh
+-rwxrwxrwx  1 anonymous anonymous    257 Jan 10 22:07 Array.sh
+-rw-r--r--  1 anonymous anonymous 151472 Jul 26  2021 Cannon, Jason - Shell Scripting · How to Automate Command Line Tasks Using Bash Scripting and Shell Programming.epub
+-rwxrwxrwx  1 anonymous anonymous    551 Jan 10 22:09 CaseStatement1.sh
+-rwxrwxrwx  1 anonymous anonymous    542 Jan 10 22:09 CaseStatements.sh
+-rwxrwxrwx  1 anonymous anonymous    150 Jan  7 23:38 conditionstatement1.sh
+-rwxrwxrwx  1 anonymous anonymous    158 Jan  7 23:34 conditionstatement.sh
+-rwxrwxrwx  1 anonymous anonymous    331 Jan  9 22:10 DecimalArithmeticOperation.sh
+-rwxrwxrwx  1 anonymous anonymous    161 Feb  7 19:46 ForLoops.sh
+drwxr-xr-x  8 anonymous anonymous   4096 Feb  7 08:57 .git
+-rwxrwxrwx  1 anonymous anonymous     56 Dec 24 20:48 hello.py
+-rwxrwxrwx  1 anonymous anonymous    139 Jan  7 22:56 hostName.sh
+-rwxrwxrwx  1 anonymous anonymous    225 Jan  7 23:45 ifelif.sh
+-rw-r--r--  1 anonymous anonymous      0 Feb  7 20:07 List1.txt
+-rw-r--r--  1 anonymous anonymous      0 Feb  7 20:07 List.txt
+-rwxr-xr-x  1 anonymous anonymous    584 Feb  7 08:52 monitermodeON.sh
+-rwxrwxrwx  1 anonymous anonymous    339 Jan  8 23:53 move.sh
+-rwxrwxrwx  1 anonymous anonymous    343 Jan  9 21:27 OrOperator.sh
+-rwxrwxrwx  1 anonymous anonymous     36 Dec 24 20:41 script1.sh
+-rwxrwxrwx  1 anonymous anonymous    118 Dec 23 19:32 scriptforfindingshells.sh
+-rwxrwxrwx  1 anonymous anonymous    550 Jan  7 23:57 testFile.sh
+-rwxrwxrwx  1 anonymous anonymous    487 Jan  7 23:57 testFile.sh.save
+-rw-r--r--  1 anonymous anonymous     83 Jan  9 00:19 test.txt
+-rwxrwxrwx  1 anonymous anonymous     76 Feb  7 20:00 UserInputUsingStdin.sh
+-rwxrwxrwx  1 anonymous anonymous     43 Feb  7 20:06 UserOutSavingInFileUsingSTDOUT.sh
+-rwxr-xr-x  1 anonymous anonymous    112 Dec 24 20:54 variable.sh
+-rwxr-xr-x  1 anonymous anonymous     69 Dec 24 20:55 variable.sh.save
+-rw-r--r--  1 anonymous anonymous    110 Feb  7 08:57 WhileLoop.sh
